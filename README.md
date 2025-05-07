@@ -36,7 +36,7 @@ The project includes a Lua script (`solitaire_memory_reader.lua`) that was origi
 1. Clone this repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/mhines2/Solitaire99Solver.git
 cd Solitaire99Solver
 ```
 
