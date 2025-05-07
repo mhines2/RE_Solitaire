@@ -37,7 +37,7 @@ The project includes a Lua script (`solitaire_memory_reader.lua`) that was origi
 
 ```bash
 git clone [repository-url]
-cd RE_Solitaire
+cd Solitaire99Solver
 ```
 
 2. Install required Python packages:
